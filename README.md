@@ -4,7 +4,7 @@
 
 **Supervisor:** Dr. Prasun Ray
 
-**Author:** Yiting Mao, Imperial College London, Mathematics Department
+**Author:** Yiting Mao, Mathematics Department, Imperial College London
 
 **Key words:** Classification, interdisciplinary science, LDA, LSTM, BERT, binary classification, multi-class classification.
 
@@ -21,6 +21,13 @@ Often, scientific works are classified by their subject-area, e.g. “astrophysi
   - Which subject areas (or combinations of subject areas) tend to produce multidisciplinary work
   - The evolution of these trends over time.
 6. A collaboration network for paper authors will be constructed and the role of multidisciplinary researchers in this network will be investigated
+
+**Dataset:**
+[The arXiv Dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv)
+
+**References:**
+
+1. [Kaggle - EDA and Multi Label Classification for arXiv](https://www.kaggle.com/code/kobakhit/eda-and-multi-label-classification-for-arxiv)
 
 **Note:**
 This project uses Python langurage for the coding part, and uses Colab platform for running the code.
