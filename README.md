@@ -4,7 +4,7 @@
 
 **Supervisor:** Dr. Prasun Ray
 
-**Author:** Yiting Mao, Imperial college London, Mathematics Department
+**Author:** Yiting Mao, Imperial College London, Mathematics Department
 
 **Key words:** Classification, interdisciplinary science, LDA, LSTM, BERT, binary classification, multi-class classification.
 
